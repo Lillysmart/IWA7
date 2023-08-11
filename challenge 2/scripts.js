@@ -1,5 +1,5 @@
 const nickname= "Timmy";
 const firstname = "Timothy";
-const greeeting= nickname || firstname;
+const greeting= nickname || firstname;
 
 console.log(`Good Morning, ${greeting} !`)
